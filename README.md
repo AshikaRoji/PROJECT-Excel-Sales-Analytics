@@ -19,11 +19,11 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/AshikaRoji/Excel-Portfolio-Project-2/blob/main/P%26L%20By%20Fiscal%20Year%20Report.pdf) & [Months](https://github.com/AshikaRoji/Excel-Portfolio-Project-2/blob/main/P%26L%20Statement%20by%20Months.pdf)
+    **1.** Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/AshikaRoji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20By%20Fiscal%20Year%20Report.pdf) & [Months](https://github.com/AshikaRoji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/AshikaRoji/Excel-Portfolio-Project-2/blob/main/P%26L%20Statement%20by%20Market.pdf)
+   **2.** Create Profit and Loss (P&L) reports by [Markets](https://github.com/AshikaRoji/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf)
   
-   **3.** Create Gross Margin Percentage per Quarter [Gross Margin % per Quarter](https://github.com/AshikaRoji/Excel-Portfolio-Project-2/blob/main/GM%25%20by%20Quaters.pdf)
+   **3.** Create Gross Margin Percentage per Quarter [Gross Margin % per Quarter](https://github.com/AshikaRoji/Excel-Sales-Analytics/blob/main/GM%25%20by%20Quaters.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -32,7 +32,7 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
+## Technical Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
