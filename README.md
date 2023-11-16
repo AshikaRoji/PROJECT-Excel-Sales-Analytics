@@ -1,4 +1,4 @@
-# Excel-Portfolio-Project-2
+# Sales Insights – Brick & mortar business [MS Excel]
 ## Sales Report :
 
 
